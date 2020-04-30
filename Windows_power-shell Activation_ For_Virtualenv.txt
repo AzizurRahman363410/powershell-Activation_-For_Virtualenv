@@ -36,3 +36,12 @@ which python
 
 # Step 7: done? leave the virtual environment
 deactivate
+
+
+############## For Installing Django ############
+(env3)$ pip install django
+(env3)$ django-admin --version
+(env3)$ django-admin startproject myproject
+(env3)$ cd myproject
+(env3)$ python manage.py startapp app_name
+
