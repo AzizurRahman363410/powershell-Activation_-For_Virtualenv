@@ -1,6 +1,0 @@
-How do I enable script running in PowerShell?
-1. Open Run Command/Console ( Win + R )
-2. Type: gpedit.msc (Group Policy Editor)
-3. Browse to Local Computer Policy -> Computer Configuration -> Administrative Templates -> Windows Components -> Windows Powershell.
-4. Enable "Turn on Script Execution"
-5. click enable and look under dropdown the policy as needed. I set mine to "Allow all scripts".
