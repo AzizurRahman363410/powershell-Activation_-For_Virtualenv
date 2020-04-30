@@ -39,8 +39,8 @@ deactivate
 
 
 ############## For Installing Django ############
-(env3)$ pip3 install django
-(env3)$ django-admin --version
+(env3)$ pip3 install django , OR python3 -m pip install Django
+(env3)$ django-admin --version , OR python3 -m django --version
 (env3)$ django-admin startproject myproject
 (env3)$ cd myproject
 (env3)$ python manage.py startapp app_name
